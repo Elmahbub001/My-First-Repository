@@ -1,5 +1,4 @@
 # My-First-Repository
-![Uploading Backend-Journey.png…]()
 # 🚀 My Backend Development Journey
 
 **Learning by building. Growing through practice. Creating solutions that matter.**
